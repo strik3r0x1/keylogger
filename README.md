@@ -1,2 +1,2 @@
 # keylogger
-A simple keylogger that sends any logged keystrokes from victim 
+A simple keylogger that sends any logged keystrokes from victim to attacker
